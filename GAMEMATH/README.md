@@ -1,0 +1,2 @@
+# GAMEMATH
+Welcome to the GAMEMATH repository! FHSMATH stands for "Fun HTML5 Scripts, Math Calculators. " This GitHub repository houses a versatile collection of HTML files featuring a variety of web-based applications, mathematical calculators, and practical utility tools. Whether you're here for educational purposes, mathematical calculations, or everyday convenience, you'll discover a range of interactive resources at your fingertips.
